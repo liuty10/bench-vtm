@@ -54,3 +54,10 @@ Profit! Now we can build VTM, encode and decode with it. We know basics to start
 
 Thanks for the reading. In future articles I will try to share more in-depth topics. I hope that this small note was useful for you!
 
+How to use evaluate.sh file?
+./evaluate.sh -n supertuxkart
+./evaluate.sh -n 0ad
+./evaluate.sh -n redeclipse
+./evaluate.sh -n dota2
+./evaluate.sh -n inmind
+./evaluate.sh -n imhotep
